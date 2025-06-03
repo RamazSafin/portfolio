@@ -206,6 +206,16 @@ header nav a:hover {
   </ul>
 </div>
 
+<div class="semester">
+  <button class="semester-btn">Курсовые работы</button>
+  <ul class="discipline-list">
+    <li><a href="https://docs.google.com/document/d/1TFB7TqZdEFkkUzL1rj_A81dB_XHum6FA/edit?usp=sharing&ouid=108516826124833879059&rtpof=true&sd=true" target="_blank">Вычислительный эксперимент по изучению законов идеального газа</a></li>
+    <li><a href="https://docs.google.com/document/d/1W-F8l7CJ-AuVSWiCxvmiyA-25Y9cHSRp/edit" target="_blank">Компьютерное моделирование упругового тела</a></li>
+    <li><a href="https://drive.google.com/drive/folders/1T7Aqjhe4q5axJP08q0KDe75FzJEjBHK0?usp=sharing" target="_blank">Исследование взаимосвязи между экономическим развитием и энергетической продукцией: корреляционный анализ</a></li>
+    <li><a href="https://docs.google.com/document/d/1VAaOrHn4Kml_B7_E56xf3H8rR53WnVZr/edit?usp=sharing&ouid=108516826124833879059&rtpof=true&sd=true" target="_blank">Проектирование и разработка электронного портфолио по дисциплине "Основы корпоративного электронного обучения"</a></li>
+  </ul>
+</div>
+
 
 <script>
   // Получаем все кнопки с классом .semester-btn
